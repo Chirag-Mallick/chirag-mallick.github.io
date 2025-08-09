@@ -16,12 +16,10 @@
   value:
     - key: Phone
       value: +91 8114865505
-    - key: Email
-      value:
-      - value: Personal
-        url: chirag.mallick@gmail.com
-      - value: Student
-        url: 25051747@kiit.ac.in
+    - key: Personal Email
+      value: chirag.mallick@gmail.com
+    - key: Student Email
+      value: 25051747@kiit.ac.in
 - key: Profiles
   value:
     - value: Instagram
