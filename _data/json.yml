@@ -1,1 +1,34 @@
-# empty
+- key: Name
+  value: Chirag mallick
+- key: Description
+  value:
+    - Hello!
+    - Welcome to my connections!
+    - Competetive, hard working and excel in things I like (P.S. very few)
+    - laziest human being in the rest
+  typed: true
+- key: Address
+  value:
+    - First floor,house no 487P lane no 3, 
+    - Sabera Colony, Nilakantha Nagar, nayapalli
+    - Bhubaneshwar, odisha, 751012
+- key: Contact
+  value:
+    - key: Phone
+      value: +91 8114865505
+    - key: Email
+      value:
+      - value: Personal
+        url: chirag.mallick@gmail.com
+      - value: Student
+        url: 25051747@kiit.ac.in
+- key: Profiles
+  value:
+    - value: Instagram
+      url: https://www.instagram.com/chirag_d_mallick
+    - value: LinkedIn
+      url: https://www.linkedin.com/in/chirag-mallick-075aa8324/
+    - value: Twitter/X
+      url: https://x.com/kop_chi
+    - value: GitHub
+      url: https://github.com/Chirag-Mallick
